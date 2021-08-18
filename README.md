@@ -1,14 +1,8 @@
-## Termos e acordos
+## Boas vindas ao repositório do projeto Arte com Pixels desenvolvido por Artur Lemes Moretti!
 
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+Repositório original em https://github.com/tryber/sd-015-b-project-pixels-art
 
----
-
-## Boas vindas ao repositório do projeto Arte com Pixels!
-
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Atenção a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
-
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto à partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
+Este repositório foi criado durante a formação na Trybe, com as orientações encontradas no sumário: 
 
 ---
 
